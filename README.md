@@ -1,16 +1,41 @@
-# React + Vite
+# 🏋️‍♂️ NVGTN Clone – Full-Stack Fitness Wear Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://nvgtn.vercel.app)
+[![React](https://img.shields.io/badge/Frontend-React-61dafb?logo=react)](https://reactjs.org/)
+[![Tailwind](https://img.shields.io/badge/Styling-Tailwind-38bdf8?logo=tailwind-css)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Build-Vite-646CFF?logo=vite)](https://vitejs.dev/)
 
-Currently, two official plugins are available:
+A high-performance, responsive web application inspired by the popular gym wear brand **NVGTN**. This project focuses on modern frontend architecture, clean UI/UX, and scalable component design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Live Preview
+Check out the live project here: [nvgtn.vercel.app](https://nvgtn.vercel.app)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+* **📱 Mobile-First Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop views.
+* **🧭 Modern Navigation:** Includes a custom responsive navbar with mobile-friendly dropdowns and currency selectors.
+* **🛒 E-commerce UI:** Minimalist product layouts designed for a premium shopping experience.
+* **⚡ Blazing Fast:** Built with Vite for near-instant Hot Module Replacement (HMR) and optimized production builds.
+* **⚙️ Future Backend:** Planned integration with **Python & Django** for dynamic data management.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+| Category | Technology |
+| :--- | :--- |
+| **Frontend** | React.js (Vite) |
+| **Styling** | Tailwind CSS |
+| **Icons** | Lucide React & Remix Icon |
+| **Deployment** | Vercel |
+| **Planned Backend** | Python / Django |
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/NVGTN.git](https://github.com/your-username/NVGTN.git)
