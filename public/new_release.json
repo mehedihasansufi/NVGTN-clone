@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Dark Roast Aera Straight Leg Pants",
+    "price": "Tk 7,200.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC09979_1024x1024.jpg?v=1769512137",
+    "image_hover": "https://nvgtn.com/cdn/shop/files/DSC09980_1024x1024.jpg?v=1769512137",
+    "size": ["XS", "S", "M", "L", "XL"] 
+
+  },
+  {
+    "id": 2,
+    "name": "Velvet Port Aera Straight Leg Pants",
+    "price": "Tk 7,200.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC00007_1024x1024.jpg?v=1769511890",
+    "image_hover": "https://nvgtn.com/cdn/shop/files/DSC00011_1024x1024.jpg?v=1769511911",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 3,
+    "name": "Dark Roast Aera Flare Pants",
+    "price": "Tk 6,600.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC09998_1024x1024.jpg?v=1769511731",
+    "image_hover": "https://nvgtn.com/cdn/shop/files/DSC00002_1024x1024.jpg?v=1769511756",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 4,
+    "name": "Velvet Port Aera Flare Pants",
+    "price": "Tk 6,600.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC09755_1024x1024.jpg?v=1769514997",
+    "image_hover": "https://nvgtn.com/cdn/shop/files/DSC09756_1024x1024.jpg?v=1769514997",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 5,
+    "name": "Dark Roast Solace Jacket",
+    "price": "Sold out",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC09992_1024x1024.jpg?v=1769512321",
+    "image_hover" : "https://nvgtn.com/cdn/shop/files/DSC09993_1024x1024.jpg?v=1769512321",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 6,
+    "name": "Velvet Port Viral Contour Seamless Leggings",
+    "price": "Tk 6,600.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC00043_1024x1024.jpg?v=1769511558",
+    "image_hover" : "https://nvgtn.com/cdn/shop/files/DSC00045_1024x1024.jpg?v=1769511558",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 7,
+    "name": "Dark Roast Solace Shrug",
+    "price": "Tk 3,300.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC09712_1024x1024.jpg?v=1769514624",
+    "image_hover" : "https://nvgtn.com/cdn/shop/files/DSC09714_1024x1024.jpg?v=1769514624",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 8,
+    "name": "Velvet Port Lift Seamless Shorts",
+    "price": "Tk 4,000.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC00028_1024x1024.jpg?v=1769512086",
+    "image_hover": "https://nvgtn.com/cdn/shop/files/DSC00027_1024x1024.jpg?v=1769512086",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 9,
+    "name": "Taupe Breakthrough Seamless Leggings",
+    "price": "Tk 6,300.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC02793_1024x1024.jpg?v=1750326531",
+    "image_hover": "https://nvgtn.com/cdn/shop/files/DSC02795_1024x1024.jpg?v=1750326531",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 10,
+    "name": "Velvet Port Breakthrough Seamless Leggings",
+    "price": "Tk 6,300.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC00036_1024x1024.jpg?v=1769511615",
+    "image_hover" : "https://nvgtn.com/cdn/shop/files/DSC00041_1024x1024.jpg?v=1769511628",
+    "size": ["XS", "S", "M", "L", "XL"]
+  }
+]
