@@ -1,0 +1,95 @@
+[
+   {
+    "id": 32,
+    "name": "White Effortless Cross Back Bra",
+    "price": "Tk 4,200.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-LightSupportStrappyBackRuchedSportsBraGSMidnightPurpleB6A6I_PCDY_2603_V1a_1920x.jpg?v=1765205311",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-LightSupportStrappyBackRuchedSportsBraGSMidnightPurpleB6A6I_PCDY_2599_V1a_1920x.jpg?v=1765205311",
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": 31,
+    "name": "Black Signature Bra",
+    "price": "Tk 3,800.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-LightSupportStrappyBackRuchedSportsBraGSDeepPetrolBlueB6A6I_UDRL_0196_2_1920x.jpg?v=1758203883",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-LightSupportStrappyBackRuchedSportsBraGSDeepPetrolBlueB6A6I_UDRL_0210_4_1920x.jpg?v=1758203883",
+    "size": ["XS", "S", "M", "L"]
+  },
+  
+  {
+    "id": 40,
+    "name": "Forest Green Contour Seamless Bra",
+    "price": "Tk 4,200.00 BDT",
+    "image_link": " https://cdn.shopify.com/s/files/1/1367/5207/files/RuchedStrappySportsBraLightSupportBlackB6A6I-BB2J-1239_1920x.jpg?v=1732522701",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/RuchedStrappySportsBraLightSupportBlackB6A6I-BB2J-1251_1920x.jpg?v=1732522701",
+    "size": ["XS", "S", "M", "L"]
+   
+  },
+  {
+    "id": 33,
+    "name": "Slate Grey Solid Seamless Bra",
+    "price": "Tk 3,800.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-VitalSeamlessNewSportsBraObsidianGreenMarlB5C7S_EBDK_0109_V2_1920x.jpg?v=1769547898",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-VitalSeamlessNewSportsBraObsidianGreenMarlB5C7S_EBDK_0123_V2_1920x.jpg?v=1769547822",
+    "size": ["XS", "S", "M"]
+  },
+  {
+    "id": 34,
+    "name": "Mauve Pink Serene Sports Bra",
+    "price": "Tk 4,500.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-TrainingFleeceJoggerGSResetPinkB7A4D_KC2J_8797_V2_1920x.jpg?v=1774965450",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-TrainingFleeceJoggerGSResetPinkB7A4D_KC2J_8798_V2_1920x.jpg?v=1774965450",
+    "size": ["S", "M", "L", "XL"]
+  },
+  
+ {
+    "id": 38,
+    "name": "Coffee Brown Signature 2.0 Bra",
+    "price": "Tk 4,200.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraGSDeepPetrolBlueB2A7A_UDRL_0789_V3_1920x.jpg?v=1769165205",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraGSDeepPetrolBlueB2A7A_UDRL_8868_1920x.jpg?v=1769165205",
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": 36,
+    "name": "Navy Blue Speckled Bra",
+    "price": "Tk 3,800.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-VitalSeamlessNewSportsBraBlackMarlB5C7S_BBF3_0657_V2_1920x.jpg?v=1769548120",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-VitalSeamlessNewSportsBraBlackMarlB5C7S_BBF3_0665_V2_1920x.jpg?v=1769548187",
+    "size": ["S", "M"]
+  },
+  {
+    "id": 37,
+    "name": "Lavender Pastel Seamless Bra",
+    "price": "Tk 4,000.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraBlackB2A7A_BBBB_0051_V2_1920x.jpg?v=1770306850",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraBlackB2A7A_BBBB_0058_V2_1920x.jpg?v=1770306850",
+    "size": ["XS", "S", "M", "L"]
+  },
+ 
+   {
+    "id": 35,
+    "name": "Forest Green Contour Seamless Bra",
+    "price": "Tk 4,200.00 BDT",
+    "image_link": " https://cdn.shopify.com/s/files/1/1367/5207/files/RuchedStrappySportsBraLightSupportBlackB6A6I-BB2J-1239_1920x.jpg?v=1732522701",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/RuchedStrappySportsBraLightSupportBlackB6A6I-BB2J-1251_1920x.jpg?v=1732522701",
+    "size": ["XS", "S", "M", "L"]
+   
+  },
+  {
+    "id": 39,
+    "name": "Burgundy High-Impact Sports Bra",
+    "price": "Tk 4,800.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/RuchedSportsBraWhiteB2A7A-WBBM-1378-0070-Edit_f4056052-5f33-4b3e-8b1b-59eaaae2ab07_1920x.jpg?v=1755278218",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/RuchedSportsBraWhiteB2A7A-WBBM-1363-0069-Edit_36c9d31f-e170-44b2-858f-c2aafa8f1d80_1920x.jpg?v=1755278219",
+    "size": ["M", "L", "XL"]
+  },
+  {
+    "id": 40,
+    "name": "Electric Blue Racerback Bra",
+    "price": "Tk 4,000.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraGSCalmPinkB2A7A_KCPD_8736_1920x.jpg?v=1768316167",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraGSCalmPinkB2A7A_KCPD_8738_V2_1920x.jpg?v=1768316167",
+    "size": ["XS", "S", "M"]
+  }
+]

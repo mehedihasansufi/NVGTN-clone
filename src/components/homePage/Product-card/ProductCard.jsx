@@ -16,8 +16,8 @@ const ProductCard = ({ data }) => {
             <div className='lg:hidden '>
                 <div className='mt-2 flex w-full justify-center  '>
                     {
-                        data.size?.map(size => (
-                            <div className='border border-gray-300 px-3 py-1 flex text-sm text-gray-500 justify-center items-center'>
+                        data.size?.map((size,index) => (
+                            <div key={index} className='border border-gray-300 px-3 py-1 flex text-sm text-gray-500 justify-center items-center'>
                                 {size}
                             </div>
                         ))
