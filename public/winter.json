@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Black Effortless Flare Leggings",
+    "price": "Tk 6,300.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC06810_1024x1024.jpg?v=1720904744",
+    "image_hover": "https://nvgtn.com/cdn/shop/files/DSC06813_1024x1024.jpg?v=1720904744",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 2,
+    "name": "Black Effortless Shorts",
+    "price": "Tk 4,000.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/files/DSC06805_1024x1024.jpg?v=1720904721",
+    "image_hover": "https://nvgtn.com/cdn/shop/files/DSC06809_1024x1024.jpg?v=1720904721",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 3,
+    "name": "Black Solid Seamless Leggings",
+    "price": "Sold out",
+    "image_link": "https://nvgtn.com/cdn/shop/products/DSC09869_1024x1024.jpg?v=1644507966",
+    "image_hover": "https://nvgtn.com/cdn/shop/products/DSC09872_1024x1024.jpg?v=1644507966",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 4,
+    "name": "Black Solid Seamless Shorts",
+    "price": "Tk 4,000.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/products/DSC06001_1024x1024.jpg?v=1645139967",
+    "image_hover": "https://nvgtn.com/cdn/shop/products/DSC06003_1024x1024.jpg?v=1645139967",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 5,
+    "name": "Black Signature 2.0 Leggings",
+    "price": "Tk 6,300.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/products/DSC05868_1024x1024.jpg?v=1644623754",
+    "image_hover": "https://nvgtn.com/cdn/shop/products/DSC05869_1024x1024.jpg?v=1644623754",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 6,
+    "name": "Black Signature 2.0 Shorts",
+    "price": "Tk 4,000.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/products/DSC05997_1024x1024.jpg?v=1644755054",
+    "image_hover": "https://nvgtn.com/cdn/shop/products/DSC05998_1024x1024.jpg?v=1644755054",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 7,
+    "name": "Black Speckled Contour Seamless Leggings",
+    "price": "Tk 6,300.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/products/DSC05832_1024x1024.jpg?v=1645227923",
+    "image_hover": "https://nvgtn.com/cdn/shop/products/DSC05836_1024x1024.jpg?v=1645227923",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 8,
+    "name": "Grey Contour Seamless Leggings",
+    "price": "Tk 6,300.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/products/DSC05824_1024x1024.jpg?v=1644624878",
+    "image_hover": "https://nvgtn.com/cdn/shop/products/DSC05825_1024x1024.jpg?v=1644624878",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 9,
+    "name": "Black Speckled Contour Seamless Shorts",
+    "price": "Tk 4,000.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/products/DSC05992_1024x1024.jpg?v=1645222282",
+    "image_hover": "https://nvgtn.com/cdn/shop/products/DSC05994_1024x1024.jpg?v=1645222282",
+    "size": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 10,
+    "name": "Black Sport Seamless Leggings",
+    "price": "Tk 6,300.00 BDT",
+    "image_link": "https://nvgtn.com/cdn/shop/products/DSC00348_1024x1024.jpg?v=1653472660",
+    "image_hover": "https://nvgtn.com/cdn/shop/products/DSC00351_1024x1024.jpg?v=1653472672",
+    "size": ["XS", "S", "M", "L", "XL"]
+  }
+]
