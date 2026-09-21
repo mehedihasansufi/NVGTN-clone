@@ -39,13 +39,13 @@ const Seamless = ({ datas }) => {
 
             </div>
 
-            <div className='flex items-start overflow-x-auto gap-2 lg:gap-2 lg:mt-12 mt-6 no-scrollbar scroll-smooth'>
+            <div className='flex lg:grid items-start overflow-x-auto lg:overflow-hidden lg:grid-cols-3 lg:gap-x-1 gap-2 lg:gap-8 lg:mt-12 mt-6 no-scrollbar scroll-smooth'>
                 {
                     datas.map(data => (
                         
                         <div
                             key={data.id}
-                            className='min-w-[350px] lg:min-w-[350px] max-w-[220px] flex-shrink-0 '
+                            className='min-w-[350px] max-w-[220px] flex-shrink-0 lg:min-w-0 lg:max-w-full lg:w-auto lg:flex-shrink '
                         >
                             <ProductCard data={data}></ProductCard>
                         </div>

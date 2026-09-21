@@ -6,11 +6,13 @@ import Navbar from './components/homePage/navbar/Navbar'
 import Release_feature from './components/homePage/Release_feature/Release_feature'
 import WinterTone from './components/homePage/winterTone/WinterTone'
 import LeftSeamLess from './components/homePage/LeftSealless/LeftSeamLess'
+import BraFull from './components/homePage/braSection/BraFull';
 
 
 const NewReleasePromise = fetch('new_release.json').then(res => res.json())
 const WinterCollectionPromise = fetch('winter.json').then(res => res.json())
 const LeftSeallessPromise = fetch('left.json').then(res => res.json())
+const BraSectionPromise = fetch('bra.json').then(res => res.json())
 
 function App() {
 
@@ -33,6 +35,9 @@ function App() {
       <Suspense>
         <LeftSeamLess LeftSeallessPromise={LeftSeallessPromise}></LeftSeamLess>
       </Suspense>
+
+   <BraFull></BraFull>
+
 
       <div className='mb-10'></div>
 
