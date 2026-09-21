@@ -42,7 +42,7 @@ const Seamless = ({ datas }) => {
             <div className='flex items-start overflow-x-auto gap-2 lg:gap-2 lg:mt-12 mt-6 no-scrollbar scroll-smooth'>
                 {
                     datas.map(data => (
-                        /* ল্যাপটপের জন্য মাত্র ১৪০ পিক্সেল (140px) উইডথ ব্যবহার করুন */
+                        
                         <div
                             key={data.id}
                             className='min-w-[350px] lg:min-w-[350px] max-w-[220px] flex-shrink-0 '
