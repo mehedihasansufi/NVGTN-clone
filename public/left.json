@@ -1,56 +1,82 @@
 [
-   {
-    "id": 32,
-    "name": "White Effortless Cross Back Bra",
-    "price": "Tk 4,200.00 BDT",
-    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-LightSupportStrappyBackRuchedSportsBraGSMidnightPurpleB6A6I_PCDY_2603_V1a_1920x.jpg?v=1765205311",
-    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-LightSupportStrappyBackRuchedSportsBraGSMidnightPurpleB6A6I_PCDY_2599_V1a_1920x.jpg?v=1765205311",
-    "size": ["S", "M", "L"]
-  },
-
   {
-    "id": 34,
-    "name": "Mauve Pink Serene Sports Bra",
-    "price": "Tk 4,500.00 BDT",
-    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-TrainingFleeceJoggerGSResetPinkB7A4D_KC2J_8797_V2_1920x.jpg?v=1774965450",
-    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-TrainingFleeceJoggerGSResetPinkB7A4D_KC2J_8798_V2_1920x.jpg?v=1774965450",
+    "id": 1,
+    "name": "Vital Seamless Tight T-Shirt",
+    "price": "Tk 3,320.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/WashedPastelBabyTeeGSPopTurquoiseWASHB6C2U_TBZZ_0310_V2_1920x.jpg?v=1780475014",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/WashedPastelBabyTeeGSPopTurquoiseWASHB6C2U_TBZZ_0324_1920x.jpg?v=1780474986",
     "size": ["S", "M", "L", "XL"]
   },
-  
- {
-    "id": 38,
-    "name": "Coffee Brown Signature 2.0 Bra",
-    "price": "Tk 4,200.00 BDT",
-    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraGSDeepPetrolBlueB2A7A_UDRL_0789_V3_1920x.jpg?v=1769165205",
-    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraGSDeepPetrolBlueB2A7A_UDRL_8868_1920x.jpg?v=1769165205",
-    "size": ["S", "M", "L"]
-  },
- 
   {
-    "id": 37,
-    "name": "Lavender Pastel Seamless Bra",
-    "price": "Tk 4,000.00 BDT",
-    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraBlackB2A7A_BBBB_0051_V2_1920x.jpg?v=1770306850",
-    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraBlackB2A7A_BBBB_0058_V2_1920x.jpg?v=1770306850",
-    "size": ["XS", "S", "M", "L"]
+    "id": 2,
+    "name": "Vital Sweetheart Neck Crop Top",
+    "price": "Tk 3,073.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-VitalSweetheartNeckCropTopGSChilledBlueB5C9W_UD6Z_0518_V2_1920x.jpg?v=1774430617",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-VitalSweetheartNeckCropTopGSChilledBlueB5C9W_UD6Z_0525_V2_1920x.jpg?v=1774430617",
+    "size": ["S", "M", "L", "XL"]
   },
- 
-   {
-    "id": 35,
-    "name": "CottonMove™ Halterneck Sports Bra",
-    "price": "Tk 4,200.00 BDT",
-    "image_link": " https://cdn.shopify.com/s/files/1/1367/5207/files/CottonSeamlessHalterneckSportsBraDANXDeepBlueMarlB7B1E_UFJD_0227_1920x.jpg?v=1786001174",
-    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/CottonSeamlessHalterneckSportsBraDANXDeepBlueMarlB7B1E_UFJD_0235_1920x.jpg?v=1786001174",
-    "size": ["XS", "S", "M", "L"]
-   
-  },
- 
   {
-    "id": 40,
-    "name": "Electric Blue Racerback Bra",
-    "price": "Tk 4,000.00 BDT",
-    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraGSCalmPinkB2A7A_KCPD_8736_1920x.jpg?v=1768316167",
-    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-MediumSupportRuchedSportsBraGSCalmPinkB2A7A_KCPD_8738_V2_1920x.jpg?v=1768316167",
-    "size": ["XS", "S", "M"]
+    "id": 3,
+    "name": "Training Oversized T-Shirt",
+    "price": "Tk 2,950.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-AdaptAnimalCropTopsupportENG_L_A0286GSElectricPinkGSSorbetYellowB5C9X_KDH4_0224_V1_1920x.jpg?v=1771320524",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-AdaptAnimalCropTopsupportENG_L_A0286GSElectricPinkGSSorbetYellowB5C9X_KDH4_0250_V1_1920x.jpg?v=1771320524",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 4,
+    "name": "Washed Pastel Baby Tee",
+    "price": "Tk 3,320.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-AdaptAnimalMidiSSTeeENG_L_A0283GSSorbetYellowGSDayglowPeachB6B4N_YBZT_0956_V1_1920x.jpg?v=1771319829",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-AdaptAnimalMidiSSTeeENG_L_A0283GSSorbetYellowGSDayglowPeachB6B4N_YBZT_0961_V1_1920x.jpg?v=1771319829",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 5,
+    "name": "Adapt Animal Long Sleeve Crop Top",
+    "price": "Tk 4,057.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-VitalSweetheartNeckCropTopGSSuper_SetPinkMarlB5C9W_KDHF_0654_V2_1920x.jpg?v=1773761446",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-111_1920x.jpg?v=1778574206",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 6,
+    "name": "Washed Pastel Baby Tee",
+    "price": "Tk 3,320.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/TrainingMidiLongSleeveBlueB6B1L_UCTN_0842_1920x.jpg?v=1787045004",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/TrainingMidiLongSleeveBlueB6B1L_UCTN_0851_1920x.jpg?v=1787045004",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 7,
+    "name": "Vital Sweetheart Neck Crop Top",
+    "price": "Tk 3,073.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/CottonSeamlessMidiLSTopDANXCalmPurpleMarlB6C7W_PCQM_0773_1920x.jpg?v=1786000649",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/ANNOTATED_PDP_27002110_5a0721cb-3ee6-4d4c-bccc-52a6bb570e39_1920x.jpg?v=1786139002",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 8,
+    "name": "Energise Seamless Crop Top",
+    "price": "Tk 4,794.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/CottonSeamlessHalterneckTopDANXDeepBlueMarlB6C4W_UFJD_1135_1920x.jpg?v=1785999256",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/CottonSeamlessHalterneckTopDANXDeepBlueMarlB6C4W_UFJD_1150_1920x.jpg?v=1785999256",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 9,
+    "name": "Crossover Back Long Sleeve Top",
+    "price": "Tk 3,688.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-AdaptAnimalCropTopsupportENG_L_A0286GSBlackGSAsphaltGreyB5C9X_BDRD_7449_V1_1920x.jpg?v=1771849721",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-AdaptAnimalCropTopsupportENG_L_A0286GSBlackGSAsphaltGreyB5C9X_BDRD_7468_V1_1920x.jpg?v=1771849721",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 10,
+    "name": "Energise Seamless Crop Top",
+    "price": "Tk 4,794.00 BDT",
+    "image_link": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-VitalSeamless2_0LightLongSleeveTopGSStealthBlueMarlB4A8C_UD7X_0817_V2_1920x.jpg?v=1776191566",
+    "image_hover": "https://cdn.shopify.com/s/files/1/1367/5207/files/images-VitalSeamless2_0LightLongSleeveTopGSStealthBlueMarlB4A8C_UD7X_0826_V2_1920x.jpg?v=1776191566",
+    "size": ["S", "M", "L", "XL"]
   }
 ]

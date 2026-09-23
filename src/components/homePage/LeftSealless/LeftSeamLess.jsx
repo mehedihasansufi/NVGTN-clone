@@ -36,10 +36,10 @@ const Seamless = ({ datas }) => {
         <div className='lg:mt-8 mt-4'>
             <div className='lg:mx-8 mx-4'>
                 <h2 className='lg:text-3xl  font-bold '>LIFT SEAMLESS</h2>
-
+                <p className='border-b inline-block lg:mt-2 mt-1 text-sm lg:text-base text-gray-700 hover:text-black cursor-pointer'>Shop</p>
             </div>
 
-            <div className='flex lg:grid items-start overflow-x-auto lg:overflow-hidden lg:grid-cols-3 lg:gap-x-1 gap-2 lg:gap-8 lg:mt-12 mt-6 no-scrollbar scroll-smooth'>
+            <div className='flex lg:grid items-start overflow-x-auto lg:overflow-hidden lg:grid-cols-5 lg:gap-x-1 gap-2 lg:gap-8 lg:mt-12 mt-6 no-scrollbar scroll-smooth'>
                 {
                     datas.map(data => (
                         

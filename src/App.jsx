@@ -7,6 +7,8 @@ import Release_feature from './components/homePage/Release_feature/Release_featu
 import WinterTone from './components/homePage/winterTone/WinterTone'
 import LeftSeamLess from './components/homePage/LeftSealless/LeftSeamLess'
 import BraFull from './components/homePage/braSection/BraFull';
+import Footer from './components/Footer/Footer';
+
 
 
 const NewReleasePromise = fetch('new_release.json').then(res => res.json())
@@ -29,14 +31,18 @@ function App() {
       </Suspense>
 
       <Suspense>
-        <WinterTone WinterCollectionPromise={WinterCollectionPromise}></WinterTone>
+        <BraFull BraSectionPromise={BraSectionPromise}></BraFull>
       </Suspense>
 
       <Suspense>
         <LeftSeamLess LeftSeallessPromise={LeftSeallessPromise}></LeftSeamLess>
       </Suspense>
 
-   <BraFull></BraFull>
+
+      <Suspense>
+        <WinterTone WinterCollectionPromise={WinterCollectionPromise}></WinterTone>
+      </Suspense>
+      <Footer></Footer>
 
 
       <div className='mb-10'></div>
